@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 # 設定
-INPUT_IMAGE = "sample.png"
+INPUT_IMAGE = "../../NYUtest/nyu_sample/sample_00000.png"
 OUTPUT_DEPTH = "depth.png"
 TIMINGS_JSON = "timings.json"  # 計測結果を保存するファイル
 
