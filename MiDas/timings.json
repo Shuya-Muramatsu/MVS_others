@@ -1,0 +1,18 @@
+{
+  "device_selection": 0.008046627044677734,
+  "model_load": 1.587998390197754,
+  "image_load": 0.01840376853942871,
+  "transform": 0.004449129104614258,
+  "inference": 0.14410638809204102,
+  "postprocess_save": 0.0008029937744140625,
+  "total": 1.7638161182403564,
+  "total_excl_model_load": 0.17581772804260254,
+  "device_selection_ms": 8,
+  "model_load_ms": 1587,
+  "image_load_ms": 18,
+  "transform_ms": 4,
+  "inference_ms": 144,
+  "postprocess_save_ms": 0,
+  "total_ms": 1763,
+  "total_excl_model_load_ms": 175
+}
